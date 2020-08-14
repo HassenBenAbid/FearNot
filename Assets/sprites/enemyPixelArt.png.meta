@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 79225580bd1f9f74589cf78023d65750
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8895195943156808896
+    second: enemyPixelArt_0
+  - first:
+      213: 8265038703136807484
+    second: enemyPixelArt_1
+  - first:
+      213: -6624044714453255508
+    second: enemyPixelArt_2
+  - first:
+      213: 734084174412801448
+    second: enemyPixelArt_3
+  - first:
+      213: -7900034699293715200
+    second: enemyPixelArt_4
+  - first:
+      213: -7886013167715250319
+    second: enemyPixelArt_5
+  - first:
+      213: -5446848351067127768
+    second: enemyPixelArt_6
+  - first:
+      213: -2864608459291936302
+    second: enemyPixelArt_7
+  - first:
+      213: -6158431638712317222
+    second: enemyPixelArt_8
+  - first:
+      213: 4537289944391251774
+    second: enemyPixelArt_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyPixelArt_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 90
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5927799, y: 1.0058508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486fdd6ade4e29647ac3b0e2bc50cd3a
+      internalID: 8895195943156808896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 90
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.31737158, y: -0.0010100856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f042ee4f7f4304b9674a34dfd5bc9d
+      internalID: 8265038703136807484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07865df31de5f19498e742250ba3c490
+      internalID: -6624044714453255508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e4b705d24ec740bbd4860ab0666cd
+      internalID: 734084174412801448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 37
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7490c30b016e43816570af109edd7
+      internalID: -7900034699293715200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479d766ef0604e6489cd66ef7db43c3f
+      internalID: -7886013167715250319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 45
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5371137, y: 0.8652593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e34f0b73b6b3ad44b5363bf1c804c06
+      internalID: -5446848351067127768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 45
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 0.53711355, y: 0.87600183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e59f8ba8da2c6046b7be4e250bdfaa2
+      internalID: -2864608459291936302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7
+        width: 11
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6548738, y: 0.8481965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc5e7334154d0b499c5cdf61d4b77db
+      internalID: -6158431638712317222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyPixelArt_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 7
+        height: 34
+      alignment: 9
+      pivot: {x: 0.704119, y: 0.86020327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b6e6a17dd11db4abdfaaccc8f2f5da
+      internalID: 4537289944391251774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

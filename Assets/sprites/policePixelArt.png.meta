@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 6c5a2237d37e26c489dd7226298c56d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2998243338981775767
+    second: policePixelArt_0
+  - first:
+      213: -2933328548318219204
+    second: policePixelArt_1
+  - first:
+      213: -1501743375735741236
+    second: policePixelArt_2
+  - first:
+      213: -6004425225347886783
+    second: policePixelArt_3
+  - first:
+      213: 568146316847237191
+    second: policePixelArt_4
+  - first:
+      213: 5962419393113052866
+    second: policePixelArt_5
+  - first:
+      213: 4483187395906212045
+    second: policePixelArt_6
+  - first:
+      213: 1788429390735140343
+    second: policePixelArt_7
+  - first:
+      213: 2934089324206824088
+    second: policePixelArt_8
+  - first:
+      213: 6987188323294509860
+    second: policePixelArt_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: policePixelArt_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 90
+        width: 11
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6298918, y: 0.9881018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6825f50a973d9a340b3348808f003a02
+      internalID: 2998243338981775767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90
+        width: 17
+        height: 22
+      alignment: 9
+      pivot: {x: 0.23585084, y: 0.008267836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bae75cb003b324d9638c9025b0476c
+      internalID: -2933328548318219204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 7
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5000022, y: 0.50887465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5c5834ba7d3cd42ac63358dc0a4c6b
+      internalID: -1501743375735741236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c13692955cf9e4889594e982e51faf
+      internalID: -6004425225347886783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 37
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf247cc2eaa6b641a8ead5ba10a63dc
+      internalID: 568146316847237191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 68
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a80906d46bba5b4892501834bd6a0e0
+      internalID: 5962419393113052866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 45
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 0.51855606, y: 0.97268796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e5a89ade5c3347841c1f5e2aa4099
+      internalID: 4483187395906212045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 45
+        width: 11
+        height: 19
+      alignment: 9
+      pivot: {x: 0.46288922, y: 0.99417394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04af81e317dbf4185ab6e465d411a6
+      internalID: 1788429390735140343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 7
+        width: 11
+        height: 34
+      alignment: 9
+      pivot: {x: 0.55566806, y: 0.99828124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc77d68a4267742a051d9eb7bbf949
+      internalID: 2934089324206824088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: policePixelArt_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 7
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5291606, y: 0.9922778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9080bb27b2a3b4c8d7b536a8b177db
+      internalID: 6987188323294509860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

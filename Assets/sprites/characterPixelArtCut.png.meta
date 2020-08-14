@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: c732dbf33434e754d8e796296e85510b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7468667934389947855
+    second: characterPixelArtCut_0
+  - first:
+      213: -7883975334018708733
+    second: characterPixelArtCut_1
+  - first:
+      213: -4304966617544870012
+    second: characterPixelArtCut_2
+  - first:
+      213: 4441246879932914197
+    second: characterPixelArtCut_3
+  - first:
+      213: -3113815963366820289
+    second: characterPixelArtCut_4
+  - first:
+      213: -767448408460148388
+    second: characterPixelArtCut_5
+  - first:
+      213: 3342704920913885062
+    second: characterPixelArtCut_6
+  - first:
+      213: -7556636359565953681
+    second: characterPixelArtCut_7
+  - first:
+      213: -8063023517636118795
+    second: characterPixelArtCut_8
+  - first:
+      213: 3703059794221122525
+    second: characterPixelArtCut_9
+  - first:
+      213: -6369803485591440735
+    second: characterPixelArtCut_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characterPixelArtCut_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 12
+        height: 25
+      alignment: 9
+      pivot: {x: 0.68710613, y: 0.9898767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4e59a5f69eb94aa6db1a6eaaae024
+      internalID: 7468667934389947855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 93
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5123707, y: 0.02138493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a17a566135834541b6bdf2ee674e16d
+      internalID: -7883975334018708733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 93
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c97a7e0752db4aa20714d826b94c5
+      internalID: -4304966617544870012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74ab7f558fdfb47a1161a1e78652f5
+      internalID: 4441246879932914197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11885c25868b6d44d81e0e4896d7eb00
+      internalID: -3113815963366820289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca93cdc17e7b2f84d8e3a97eb3d37dd7
+      internalID: -767448408460148388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 43
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.9859886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f2fa4ede67e14fa1e85a8ace1735e
+      internalID: 3342704920913885062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 43
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5157019, y: 0.9859886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7b27b56cd55f040bc93e284e3f6d76
+      internalID: -7556636359565953681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 13
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5157014, y: 0.99649656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655645c041a114340aba216834be8e40
+      internalID: -8063023517636118795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32286dbd3bc44884bb3b61ad9af8f808
+      internalID: 3703059794221122525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterPixelArtCut_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 9
+        height: 37
+      alignment: 9
+      pivot: {x: 0.50000083, y: 1.0020132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9bc0129d6a18e4bb7872482e159add
+      internalID: -6369803485591440735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
